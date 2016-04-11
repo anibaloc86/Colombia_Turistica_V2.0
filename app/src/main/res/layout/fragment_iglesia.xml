@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anibalosorio.colombiaturisticav20.IglesiaFragment">
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+        <TextView
+            style="@style/textViewStyle.Title"
+            android:text="@string/iglesia"/>
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/iglesia"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/descripcionIglesia"/>
+    </LinearLayout>
+
+</FrameLayout>

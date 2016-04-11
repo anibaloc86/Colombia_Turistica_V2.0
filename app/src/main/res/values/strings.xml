@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Colombia Turistica V 2.0</string>
+    <string name="parque">Parque Principal</string>
+    <string name="descripcionParque">El parque principal del municipio de Hispania, tiene como
+    gran atrativo sus lindos Samanes.</string>
+    <string name="iglesia">Iglesia Nuestra Señora de Las Mercedes</string>
+    <string name="descripcionIglesia">La población del minicipio es en su mayoría católica
+    y adornan con gran elegancia su templo.</string>
+    <string name="finca">Finca Hoteles</string>
+    <string name="descripcionFinca">Las finca hoteles en el municipio de Hispania, son un gran
+    atractivo turistico por su comodidad y cercania a la naturaleza.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

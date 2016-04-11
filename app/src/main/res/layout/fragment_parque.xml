@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anibalosorio.colombiaturisticav20.ParqueFragment">
+
+   <LinearLayout
+       style="@style/linearLayoutStyle">
+       <TextView
+           style="@style/textViewStyle.Title"
+           android:text="@string/parque"/>
+       <ImageView
+           style="@style/imageViewStyle"
+           android:src="@drawable/parque"/>
+       <TextView
+           style="@style/textViewStyle.Content"
+           android:text="@string/descripcionParque"/>
+      </LinearLayout>
+
+</FrameLayout>
