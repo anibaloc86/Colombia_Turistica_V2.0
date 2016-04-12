@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         actionBar.addTab(tab);
 
         mViewPager.setOnPageChangeListener(new ViewPager.SimpleOnPageChangeListener() {
-            public void onPageSelect(int position) {
+            public void onPageSelected(int position) {
                 getSupportActionBar().setSelectedNavigationItem(position);
             }
 
@@ -77,4 +77,6 @@ public class MainActivity extends AppCompatActivity {
             return 3;
         }
     }
+
+
 }
